@@ -1,6 +1,6 @@
 # Intelligent Decision Support Systems
 
-Projects completed in collaboration with **Piotr Szymaczyk** as part of the **Intelligent Decision Support Systems** course — MSc Computer Science (Artificial Intelligence specialisation), Semester 1.
+Projects completed in collaboration with **Piotr Szymaczek** as part of the **Intelligent Decision Support Systems** course — MSc Computer Science (Artificial Intelligence specialisation), Semester 1.
 
 Each project applies a different multi-criteria decision analysis (MCDA) methodology to a real-world or data-driven problem, implemented in Python as a Jupyter notebook with a detailed written report.
 
